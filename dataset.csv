@@ -1,13 +1,8 @@
 ﻿age;job;marital;education;default;balance;housing;loan;contact;day;month;duration;campaign;pdays;previous;poutcome;y
-33;entrepreneur;married;secondary;no;76;yes;yes;unknown;5;may;76;1;-1;0;unknown;no
-47;blue-collar;married;unknown;no;1506;yes;no;unknown;5;may;137;1;-1;0;unknown;no
-33;unknown;single;unknown;no;3;no;no;unknown;5;may;198;1;-1;0;unknown;no
-35;management;married;tertiary;no;5;yes;no;unknown;5;may;139;1;-1;0;unknown;no
-28;management;single;tertiary;no;447;yes;yes;unknown;5;may;217;1;-1;0;unknown;no
-42;entrepreneur;divorced;tertiary;yes;2;yes;no;unknown;5;may;380;1;-1;0;unknown;no
+42;entrepreneur;divorced;tertiary;yes;2;yes;no;unknown;5;may;380;1;-1;0;unknown;yes
 58;retired;married;primary;no;121;yes;no;unknown;5;may;50;1;-1;0;unknown;no
 43;technician;single;secondary;no;6;yes;no;unknown;5;may;55;1;-1;0;unknown;no
-41;technician;divorced;secondary;no;270;yes;no;unknown;5;may;222;1;-1;0;unknown;no
+99;technician;divorced;secondary;no;270;yes;no;unknown;5;may;222;1;-1;0;unknown;no
 29;admin.;single;secondary;no;45;yes;no;unknown;5;may;137;1;-1;0;unknown;no
 53;technician;married;secondary;no;6;yes;no;unknown;5;may;517;1;-1;0;unknown;no
 58;technician;married;unknown;no;45;yes;no;unknown;5;may;71;1;-1;0;unknown;no
